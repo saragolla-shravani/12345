@@ -1,2 +1,7 @@
 hi people
 this devops 1st experiment
+
+this project is developed using git and GitHub.
+
+this project is developed using git
+pull request demonstration for week 3
