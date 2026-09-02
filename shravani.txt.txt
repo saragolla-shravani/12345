@@ -1,2 +1,3 @@
 hi people
 this devops 1st experiment
+this project is developed using git and GitHub.
